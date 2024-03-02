@@ -24,14 +24,14 @@ const HomeProduct = [
     id: 4,
     Title: "Galaxy Tab S6 Lite 10.4-inch Android Tablet 128GB.",
     Cat: "Table",
-    Price: "$723",
+    Price: "$730",
     Img: "./img/logo192.png",
   },
   {
     id: 5,
     Title: "Galaxy Tab S6 Lite 10.4-inch Android Tablet 128GB.",
     Cat: "Table",
-    Price: "$723",
+    Price: "$770",
     Img: "./img/logo192.png",
   },
   {
@@ -45,7 +45,7 @@ const HomeProduct = [
     id: 7,
     Title: "Galaxy Tab S6 Lite 10.4-inch Android Tablet 128GB.",
     Cat: "Table",
-    Price: "$723",
+    Price: "$770",
     Img: "./img/logo192.png",
   },
   {
